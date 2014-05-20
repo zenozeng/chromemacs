@@ -1,4 +1,6 @@
 node-chromemacs
 ===============
 
-macs keybindings for Chrome / Chromium using node-x11
+Emacs keybindings for Chrome / Chromium using node-x11
+
+Still Coding.
